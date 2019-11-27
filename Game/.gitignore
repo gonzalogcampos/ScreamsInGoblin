@@ -1,0 +1,13 @@
+# ignore all .o
+bin
+
+#Ejecutable
+Game/bin/Ejecutable
+bin/Ejecutable
+
+# ignore all .zip
+*.zip
+
+#vscode
+.vscode
+vgcore.3846

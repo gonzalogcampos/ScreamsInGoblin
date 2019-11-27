@@ -1,0 +1,11 @@
+# ignore all .o
+bin
+
+#Ejecutable
+Ejecutable
+
+# ignore all .zip
+*.zip
+
+#vscode
+.vscode
